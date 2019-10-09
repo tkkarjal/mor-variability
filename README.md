@@ -1,5 +1,5 @@
 ![age_effects](http://emotion.utu.fi/wp-content/uploads/2019/04/g4927.png)
-# mor-variability
+# MOR-variability
 
 This repository contains analysis scripts related to the manuscript **Interindividual variability and lateralization of μ-opioid receptors in the human brain** by *Tatu Kantonen, Tomi Karjalainen, Janne Isojärvi, Pirjo Nuutila, Jouni Tuisku, Juha Rinne, Jarmo Hietala, Valtteri Kaasinen, Kari Kalliokoski, Harry Scheinin, Jussi Hirvonen, Aki Vehtari, and Lauri Nummenmaa*.
 
