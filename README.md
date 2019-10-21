@@ -13,6 +13,8 @@ This repository contains analysis scripts related to the manuscript **Interindiv
     - Draws samples from the posterior distribution of Model 4 and sums them up to get ROI-specific posteriors for age, sex, and smoking
 - visualize_results_roi.R
     - Visualizes the results from the ROI-level analysis
+- nonlinear_models.R
+    - Fits the nonlinear models
     
 ### Variability: Full-volume analysis
 
