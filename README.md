@@ -3,6 +3,8 @@
 
 This repository contains analysis scripts related to the manuscript **Interindividual variability and lateralization of μ-opioid receptors in the human brain** by *Tatu Kantonen, Tomi Karjalainen, Janne Isojärvi, Pirjo Nuutila, Jouni Tuisku, Juha Rinne, Jarmo Hietala, Valtteri Kaasinen, Kari Kalliokoski, Harry Scheinin, Jussi Hirvonen, Aki Vehtari, and Lauri Nummenmaa*.
 
+The PET data used in the manuscript were preprocessed and modeled with minimal user-intervention using Magia (https://github.com/tkkarjal/magia), an automated analysis pipeline for brain PET studies. Magia preprint is available from [here](https://www.biorxiv.org/content/10.1101/604835v2).
+
 ## List of the scripts
 
 ### Variability: ROI-level analysis
